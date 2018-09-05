@@ -1,1 +1,2 @@
 commit file so 1
+commit lan thu 2
